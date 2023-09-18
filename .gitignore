@@ -1,0 +1,24 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Virtual environment
+venv/
+
+# macOS artifacts
+.DS_Store
+
+# IDEs and editors
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Database files (in case any get created in the directory)
+*.db
+*.sqlite
+
+# Logs and other temporary files
+*.log
